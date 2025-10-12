@@ -10,7 +10,7 @@ $username = 'xxx';
 $password = 'xxx';
 $database = 'xxxx';
 
-$forecast_info_file = 'SMB_impactfromMOVE.txt'; // Path to your text file
+$forecast_info_file = 'SMB_impactfromMOVE.txt'; 
 
 // Connect to the database
 try {
